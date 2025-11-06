@@ -1,1 +1,1 @@
-samir-website-action.github.io
+samir-actions.github.io
