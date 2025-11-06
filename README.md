@@ -1,1 +1,1 @@
-mynetproxy.github.io
+samir-website-action.github.io
